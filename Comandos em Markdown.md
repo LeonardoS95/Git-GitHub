@@ -25,3 +25,14 @@ Criatividade | Projetos chamativos | sites e apliactivos
 Metas | Agilidade | sites e aplicativos
 :raising_hand: | :bulb: | :white_check_mark:
 
+Códigos básicos:
+`printf('Hello Word!')` (*Python*)
+
+```
+for (var i = -10 / STEP; i < 10 / STEP; i += 1) {
+    var x = i * STEP;
+    var y = solveStr(reformat(replaceAll(fxString.toLowerCase(), "x", "(" + x + ")")));
+```  
+(JavaScript - Google)
+
+> _Estar sempre pronto a aprender deve ser um lema!_ :nerd_face:
