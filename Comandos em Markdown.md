@@ -15,8 +15,8 @@
 - [x] Persistência;
 - [x] Compromisso;
 - [ ] Ágilide;
-- [] Estratégias;
-- [] Metas específicas
+- [ ] Estratégias;
+- [ ] Metas específicas
 
 ### Outras habilidades importantes:
 **Habilidade** | **Porquê** | **Tarefa**
