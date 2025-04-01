@@ -14,7 +14,7 @@
 ### Preciso ainda desenvolver algumas competências como por exemplo:
 - [x] Persistência;
 - [x] Compromisso;
-- [] Ágilide;
+- [ ] Ágilide;
 - [] Estratégias;
 - [] Metas específicas
 
